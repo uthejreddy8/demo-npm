@@ -21,7 +21,7 @@ The application Dockerfile is very simple, use node as a base image, copy the ap
 
 Install Dependencies:
 ```
-npm install
+npm install 
 ```
 
 Run Tests:
